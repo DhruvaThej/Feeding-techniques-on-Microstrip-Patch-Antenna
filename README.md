@@ -10,5 +10,37 @@ This study is based on Rectangular Microstrip Patch Antennas (RMPA), which are u
 # Edge fed RMPA
 This method is simple, and we can easily analyze it, and it can be easily manufactured. This antenna can be impedance-matched by doing some Structural modifications, this model does not require any modification in the geometry of the patch. The design of edge fed rectangular patch antenna is shown below
 
-
+<h1 align="center"> 
+  
 ![hh](https://github.com/DhruvaThej/Feeding-techniques-on-Microstrip-Patch-Antenna/assets/156312231/8bac6ecd-e230-41c1-9e3d-7baf0c5299ce)
+
+# Inset fed RMPA
+ The inset-fed mechanism involves the slot cuttings in the patch antenna. The impedance of the patch is high at the edges, it decreases as we move to the center of the patch. As the current at the center is high, the minimum impedance is at the center of the patch. So as the impedance decreases to the center there will be a point where it has 50Ω impedance. In the inset-fed method, the slot cutting is done once we identify this point. In inset fed, there is no need for any transmission line as the feed is given to the point where the impedance is matched.
+ 
+ <h1 align="center">
+   
+ ![3](https://github.com/DhruvaThej/Feeding-techniques-on-Microstrip-Patch-Antenna/assets/156312231/953a28ba-11c1-413b-8b9d-29dd553bd156)
+
+ # Coaxial fed RMPA
+ 
+ In coaxial feed RMPA, the feed is given directly to the point where the impedance is 50Ω. Coaxial feed is widely used, and it is an effective method.
+ 
+ <h1 align="center">
+   
+ ![4](https://github.com/DhruvaThej/Feeding-techniques-on-Microstrip-Patch-Antenna/assets/156312231/dce76da5-2582-4523-866e-5627cdd08133)
+
+ # Aperture-fed RMPA
+
+ In aperture-fed RMPA the ground plane is in between two substrates; the patch is above substrate 1, and the feed is below substrate 2. In this method, the ground plane is slotted to obtain resonant frequency e 1, and the feed is below substrate 2. In this method, the ground plane is slotted to obtain resonant frequency i.e., 10GHz.
+ 
+ <h1 align="center">
+   
+ ![5](https://github.com/DhruvaThej/Feeding-techniques-on-Microstrip-Patch-Antenna/assets/156312231/fc6e10a6-efbc-4f97-81b0-47927933d8af)
+
+ # results
+
+
+  <h1 align="center">
+
+![ssss](https://github.com/DhruvaThej/Feeding-techniques-on-Microstrip-Patch-Antenna/assets/156312231/a725ae7e-8758-4113-9ee9-259a25b08b42)
+
